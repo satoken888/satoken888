@@ -1,8 +1,7 @@
 # Hi, I'm satoken888 👋
 
 このリポジトリには、業務・個人で開発した各種プロジェクトをまとめています。  
-バックエンド・フロントエンド・クラウドまで幅広く手がけています。  
-**※プライベートのリポジトリ情報も含まれています。**
+バックエンド・フロントエンド・クラウドまで幅広く手がけています。
 
 ---
 
@@ -16,6 +15,11 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white)
+
+### フロントエンド
+![React](https://img.shields.io/badge/React-18-61DAFB?style=flat&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-5-646CFF?style=flat&logo=vite&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-5-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
 ### フレームワーク・ライブラリ
 
@@ -69,6 +73,7 @@
 | **nextengine-api** | Next Engine / AWS連携API | Spring Boot, kintone, AWS Connect, S3 |
 | **ramen_map** | ラーメン店マップ | Spring Boot 2.7, JPA, Thymeleaf, PostgreSQL |
 | **ros** | 業務Webアプリ | Spring Boot, JPA, Security, Thymeleaf, PostgreSQL |
+| **PracticeReactSpringboot** | React + Spring Boot のフルスタック練習 | Spring Boot 3.5 (Java 25), React 18, Vite, React Router |
 | **my-app** | フロントエンドアプリ | React 18, Create React App, Jest |
 | **presentWeb_Server** | プレゼントWeb（サーバー側） | Python, AWS Lambda, DynamoDB (boto3) |
 | **wildrydes-site** | 静的サイト（認証付き） | HTML/CSS/JS, Amazon Cognito, Bootstrap |
